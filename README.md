@@ -8,7 +8,7 @@ As part of the Master of Science in Business Analytics (MSBA) at UT Austin
 1. Download the data files 'train.csv' from [here](https://www.kaggle.com/google/google-landmarks-dataset).
 2. Set up in Google Colab for optimal downloading and training time.
 
-Have a look at the [blog](https://towardsdatascience.com/XXXXXXXXXXX) by our team to follow our journey. 
+Have a look at the [blog](https://danielstern20.medium.com/google-landmark-recognition-476deb6575ee) by our team to follow our journey. 
 
 ## Codes
 The notebook **Final_version** consists of the code to
